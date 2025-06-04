@@ -1,0 +1,15 @@
+C:\Users\raonn\OneDrive\Documentos\Faculdade\Web\CleanArch\CleanArch\Persistence\bin\Debug\net8.0\CleanArch.Persistence.deps.json
+C:\Users\raonn\OneDrive\Documentos\Faculdade\Web\CleanArch\CleanArch\Persistence\bin\Debug\net8.0\CleanArch.Persistence.dll
+C:\Users\raonn\OneDrive\Documentos\Faculdade\Web\CleanArch\CleanArch\Persistence\bin\Debug\net8.0\CleanArch.Persistence.pdb
+C:\Users\raonn\OneDrive\Documentos\Faculdade\Web\CleanArch\CleanArch\Persistence\bin\Debug\net8.0\CleanArch.Domain.dll
+C:\Users\raonn\OneDrive\Documentos\Faculdade\Web\CleanArch\CleanArch\Persistence\bin\Debug\net8.0\CleanArch.Domain.pdb
+C:\Users\raonn\OneDrive\Documentos\Faculdade\Web\CleanArch\CleanArch\Persistence\obj\Debug\net8.0\CleanArch.Persistence.csproj.AssemblyReference.cache
+C:\Users\raonn\OneDrive\Documentos\Faculdade\Web\CleanArch\CleanArch\Persistence\obj\Debug\net8.0\CleanArch.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raonn\OneDrive\Documentos\Faculdade\Web\CleanArch\CleanArch\Persistence\obj\Debug\net8.0\CleanArch.Persistence.AssemblyInfoInputs.cache
+C:\Users\raonn\OneDrive\Documentos\Faculdade\Web\CleanArch\CleanArch\Persistence\obj\Debug\net8.0\CleanArch.Persistence.AssemblyInfo.cs
+C:\Users\raonn\OneDrive\Documentos\Faculdade\Web\CleanArch\CleanArch\Persistence\obj\Debug\net8.0\CleanArch.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\raonn\OneDrive\Documentos\Faculdade\Web\CleanArch\CleanArch\Persistence\obj\Debug\net8.0\CleanArc.CBC4090D.Up2Date
+C:\Users\raonn\OneDrive\Documentos\Faculdade\Web\CleanArch\CleanArch\Persistence\obj\Debug\net8.0\CleanArch.Persistence.dll
+C:\Users\raonn\OneDrive\Documentos\Faculdade\Web\CleanArch\CleanArch\Persistence\obj\Debug\net8.0\refint\CleanArch.Persistence.dll
+C:\Users\raonn\OneDrive\Documentos\Faculdade\Web\CleanArch\CleanArch\Persistence\obj\Debug\net8.0\CleanArch.Persistence.pdb
+C:\Users\raonn\OneDrive\Documentos\Faculdade\Web\CleanArch\CleanArch\Persistence\obj\Debug\net8.0\ref\CleanArch.Persistence.dll
